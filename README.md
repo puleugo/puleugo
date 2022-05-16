@@ -1,7 +1,7 @@
 ### 안녕하세요 👋
 백엔드 뉴비 임채성입니다.
 
-Tech Stacks
+### Tech Stacks
 Python, TypeScript, NestJS
 
 티스토리 개발블로그 : https://puleugo.tistory.com/
