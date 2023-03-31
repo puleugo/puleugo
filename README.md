@@ -23,7 +23,7 @@
 ---
 | Project                                              | Contest                                            | Tech Stack           | Year |
 |------------------------------------------------------|----------------------------------------------------|--------------------|------|
-| 학생 크리에이터를 돕는 자기개발 애플리케이션:LEVEL-UP | 프로젝트 배포 목적 스터디 | Nest.js, AWS, PostgreSQL  | 2023 |
+| [학생 크리에이터를 돕는 자기개발 애플리케이션:LEVEL-UP](https://github.com/puleugo/level-up) | 프로젝트 배포 목적 스터디 | Nest.js, AWS, PostgreSQL  | 2023 |
 | [학교 유틸 애플리케이션:인제생](https://www.megabrain.kr/899fefaf96624cbc9127a7e073c60309) | 인제대학교 메가브레인 동아리 1일 해커톤 | Python, Selenium, AWS, PostgreSQL | 2022 |
 | [모바일 헬스 유틸 애플리케이션: 헬신](https://play.google.com/store/apps/details?id=life.healthy.be) | SW마에스트로 팀 프로젝트 | Nest.js, TypeORM, AWS, PostgreSQL | 2022 |
 | [Trend-in-one](https://github.com/inje-megabrain/trend-in-one-be/blob/main/README.md) | 동아리 2인 프로젝트 | Nest.js, Puppeteer, Admin.js | 2022 |
