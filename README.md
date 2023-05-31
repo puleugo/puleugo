@@ -36,9 +36,9 @@
 <br/><br/>
 
 ## 🌱 배포 프로젝트
-[인제생: iOS](https://apps.apple.com/kr/app/인제생/id6449248764)
-[인제생: 안드로이드](https://play.google.com/store/apps/details?id=com.awesome.ijs)
-[모바일 헬스 유틸 애플리케이션: 헬신](https://play.google.com/store/apps/details?id=life.healthy.be) 
+- [인제생: iOS](https://apps.apple.com/kr/app/인제생/id6449248764)
+- [인제생: 안드로이드](https://play.google.com/store/apps/details?id=com.awesome.ijs)
+- [모바일 헬스 유틸 애플리케이션: 헬신](https://play.google.com/store/apps/details?id=life.healthy.be) 
 
 <br/>
 
