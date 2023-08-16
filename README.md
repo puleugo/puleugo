@@ -24,13 +24,13 @@
 ## 🌱 Projects
 | Project                                              | Contest                                            | Tech Stack           | Year |
 |------------------------------------------------------|----------------------------------------------------|--------------------|------|
-| [학교 기능성 애플리케이션: 인제생](https://github.com/puleugo/IJS) | 배포 목적 프로젝트 | Nest.js, Puppeteer, AWS, PostgreSQL | 2023 |
+| 경남 경매 | 경남 SW 경진대회 출전작 | Java 8, Spring Boot 2.7 | 2023 |
+| [학교 기능성 애플리케이션: 인제생](https://github.com/puleugo/IJS) | 배포 목적 프로젝트 | Nest.js, AWS, PostgreSQL | 2023 |
 | [유튜브 자막 협업 워크스페이스: 감람스톤](https://gamramstone.wesub.io/) | 왁타버스 공식 개발팀 | Go, Fiber | 2023 |
-| [학생 크리에이터를 돕는 자기개발 애플리케이션:LEVEL-UP](https://github.com/puleugo/level-up) | 프로젝트 배포 목적 스터디 | Nest.js, AWS, PostgreSQL  | 2023 |
-| [모바일 헬스 유틸 애플리케이션: 헬신](https://play.google.com/store/apps/details?id=life.healthy.be) | SW마에스트로 팀 프로젝트 | Nest.js, TypeORM, AWS, PostgreSQL | 2022 |
 | [Trend-in-one](https://github.com/inje-megabrain/trend-in-one-be/blob/main/README.md) | 동아리 2인 프로젝트 | Nest.js, Puppeteer, Admin.js | 2022 |
-| [코로나 자가진단 자동화 프로그램](https://github.com/puleugo/covid-19-eduro-self-diagnosis-program) | 1인 개발(고교 시절) | Python3, Selenium, NCP, Linux | 2021 |
-| 더많은 서로이웃 | 1인 개발(고교 시절) | Python3, Selenium, NCP, Linux | 2021 |
+| [모바일 헬스 유틸 애플리케이션: 헬신](https://play.google.com/store/apps/details?id=life.healthy.be) | SW마에스트로 팀 프로젝트 | Nest.js, TypeORM, PostgreSQL | 2022 |
+| [코로나 자가진단 자동화 프로그램](https://github.com/puleugo/covid-19-eduro-self-diagnosis-program) | 1인 개발(고교 시절) | Python3, Selenium, NCP | 2021 |
+| 더많은 서로이웃 | 1인 개발(고교 시절) | Python3, Selenium, NCP | 2021 |
 
 
 <br/><br/>
