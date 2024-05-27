@@ -18,7 +18,7 @@
 ## 🌱 Projects
 | Project                                              | Contest                                            | Tech Stack           | Year |
 |------------------------------------------------------|----------------------------------------------------|--------------------|------|
-| [Waktaverse Games](https://waktaverse.games/) | 왁타버스 팬게임 플랫폼 | Nest.js, TypeOMR | 2024 |
+| [Waktaverse Games](https://waktaverse.games/) | 왁타버스 팬게임 플랫폼 | Nest.js, TypeORM | 2024 |
 | [경남 경매](https://github.com/gyeongnam-gyeongmae/server) | 경남 SW 경진대회 출전작 | Java 8, Spring Boot 2.7 | 2023 |
 | [학교 기능성 애플리케이션: 인제생](https://github.com/puleugo/IJS) | 토이 프로젝트 | Nest.js, AWS, PostgreSQL | 2023 |
 | [유튜브 자막 협업 워크스페이스: 감람스톤](https://gamramstone.wesub.io/) | 왁타버스 공식 개발팀 | Go, Fiber, PostgreSQL | 2023 |
