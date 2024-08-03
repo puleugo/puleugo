@@ -34,11 +34,11 @@
 <br/>
 
 ## Recent Posts
-- [Node.js] 트랜잭션을 활용한 테스트 격리 환경 구축하기 (1/2) | 솔루션 찾기 2024.49.07/31/24 <br/>
-- [번역] Mocks Aren't Stubs | Classicist vs Mockist 2024.00.07/29/24 <br/>
-- [번역] 개발자 중심 성능 테스트 선언문 2024.29.06/23/24 <br/>
-- 가만히 있어도 주변에서 칭찬해주는 챌린지: 도파민 디톡스 후기 2024.30.06/15/24 <br/>
-- [TypeScript] TypeORM 커스텀 함수 구현하기 2024.13.06/06/24 <br/>
-- 그냥 하기 (명량한 염세주의) 2024.43.05/17/24 <br/>
-- [Nest.js] HTTP query에 따라 Service가 동적으로 할당되어야 한다. 2024.33.05/07/24 <br/>
-- css를 활용한 다크모드 이미지 자동 대응 2024.10.04/22/24 <br/>
+- [[Node.js] 트랜잭션을 활용한 테스트 격리 환경 구축하기 (1/2) | 솔루션 찾기](https://puleugo.tistory.com/201) - 2024.49.07/31/24 <br/>
+- [[번역] Mocks Aren't Stubs | Classicist vs Mockist](https://puleugo.tistory.com/199) - 2024.00.07/29/24 <br/>
+- [[번역] 개발자 중심 성능 테스트 선언문](https://puleugo.tistory.com/197) - 2024.29.06/23/24 <br/>
+- [가만히 있어도 주변에서 칭찬해주는 챌린지: 도파민 디톡스 후기](https://puleugo.tistory.com/195) - 2024.30.06/15/24 <br/>
+- [[TypeScript] TypeORM 커스텀 함수 구현하기](https://puleugo.tistory.com/194) - 2024.13.06/06/24 <br/>
+- [그냥 하기 (명량한 염세주의)](https://puleugo.tistory.com/193) - 2024.43.05/17/24 <br/>
+- [[Nest.js] HTTP query에 따라 Service가 동적으로 할당되어야 한다.](https://puleugo.tistory.com/192) - 2024.33.05/07/24 <br/>
+- [css를 활용한 다크모드 이미지 자동 대응](https://puleugo.tistory.com/190) - 2024.10.04/22/24 <br/>
