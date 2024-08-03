@@ -8,7 +8,7 @@ raw = feedparser.parse(url)['entries'];
 
 
 # 게시글 필터링
-post = [];
+posts = [];
 
 ignoreCategories = {'도서 리뷰'};
 for idx, post in enumerate(raw):
