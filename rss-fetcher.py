@@ -34,8 +34,9 @@ for post in posts:
     rawPublishedAt = post['published_parsed'];
     formatedPublishedAt = time.strftime('%Y.%M.%D', rawPublishedAt);
     title = post['title'];
+    url = post['links'][0]['href'];
 
-    postsMarkdown += f'- {title} {formatedPublishedAt} <br/>\n';
+    postsMarkdown += f'- [{title}]({url}) - {formatedPublishedAt} <br/>\n';
 
 # 최종 마크다운 생성
 readStream = open('TEMPLATE.md', mode='r',encoding='utf-8');
