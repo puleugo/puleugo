@@ -28,7 +28,7 @@
 
 <br/>
 
-## 🌱 Tech Blog
+## Tech Blog
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=Tistory&logoColor=white&link=https://puleugo.tistory.com)](https://puleugo.tistory.com/)
 
 <br/>
