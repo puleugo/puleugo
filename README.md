@@ -28,7 +28,7 @@
 
 <br/>
 
-## 🌱 Tech Blog
+## Tech Blog
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=Tistory&logoColor=white&link=https://puleugo.tistory.com)](https://puleugo.tistory.com/)
 
 <br/>
@@ -40,5 +40,5 @@
 - [가만히 있어도 주변에서 칭찬해주는 챌린지: 도파민 디톡스 후기](https://puleugo.tistory.com/195) - 2024.06.15 <br>	디지털 디톡스, 자기개발<br/>
 - [[TypeScript] TypeORM 커스텀 함수 구현하기](https://puleugo.tistory.com/194) - 2024.06.06 <br>	contributing, Trouble Shooting, typeorm issue<br/>
 - [그냥 하기 (명량한 염세주의)](https://puleugo.tistory.com/193) - 2024.05.17 <br/>
-- [[Nest.js] HTTP query에 따라 Service가 동적으로 할당되어야 한다.](https://puleugo.tistory.com/192) - 2024.05.07 <br/>
+- [[Nest.js] HTTP query에 따라 Service가 동적으로 할당되어야 한다.](https://puleugo.tistory.com/192) - 2024.05.07 <br>	nest.js dynamic module<br/>
 - [css를 활용한 다크모드 이미지 자동 대응](https://puleugo.tistory.com/190) - 2024.04.22 <br>	개발블로그 기능 구현<br/>
