@@ -1,11 +1,10 @@
 import feedparser, time, ssl;
 
-
 # 게시글 읽어오기
 ssl._create_default_https_context = ssl._create_unverified_context;
 url = "https://puleugo.tistory.com/rss";
 raw = feedparser.parse(url)['entries'];
-
+# print(raw)
 
 # 게시글 필터링
 posts = [];
@@ -32,11 +31,16 @@ postsMarkdown = f"""
 
 for post in posts:
     rawPublishedAt = post['published_parsed'];
-    formatedPublishedAt = time.strftime('%Y.%M.%D', rawPublishedAt);
+    tagsList = list(map(lambda data: data['term'], post['tags']))[1:];
+    tags = ', '.join(tagsList);
+    formatedPublishedAt = time.strftime('%Y.%m.%d', rawPublishedAt);
     title = post['title'];
     url = post['links'][0]['href'];
 
-    postsMarkdown += f'- [{title}]({url}) - {formatedPublishedAt} <br/>\n';
+    postsMarkdown += f'- [{title}]({url}) - {formatedPublishedAt} ';
+    if len(tags) > 0:
+        postsMarkdown += f'<br>\t{tags}';
+    postsMarkdown += '<br/>\n';
 
 # 최종 마크다운 생성
 readStream = open('TEMPLATE.md', mode='r',encoding='utf-8');
@@ -46,7 +50,6 @@ readStream.close();
 resultMarkdown = templateMarkdown + postsMarkdown;
 
 # README.md에 작성
-
 fileStream = open('README.md', mode='w', encoding='utf-8');
 fileStream.write(resultMarkdown)
 fileStream.close();
