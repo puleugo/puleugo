@@ -31,7 +31,8 @@ postsMarkdown = f"""
 
 for post in posts:
     rawPublishedAt = post['published_parsed'];
-    tagsList = list(map(lambda data: data['term'], post['tags']))[1:];
+    tagsList = list(map(lambda data: data['term'], post['tags']))[1:]; # 첫 term은 카테고리, 이후부터는 게시글 태그
+    tagsList = list(map(lambda words: ' '.join(word.capitalize() for word in words.split()), tagsList)); # 모든 문자의 첫 알파벳을 대문자로 변환
     tags = ', '.join(tagsList);
     formatedPublishedAt = time.strftime('%Y.%m.%d', rawPublishedAt);
     title = post['title'];
