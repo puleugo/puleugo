@@ -34,11 +34,11 @@
 <br/>
 
 ## Recent Posts
-- [[Node.js] 트랜잭션을 활용한 테스트 격리 환경 구현하기 (1/2) | 솔루션 찾기](https://puleugo.tistory.com/201) - 2024.07.31 <br>	connection, test, transaction<br/>
+- [[Node.js] 트랜잭션을 활용한 테스트 격리 환경 구현하기 (1/2) | 솔루션 찾기](https://puleugo.tistory.com/201) - 2024.07.31 <br>	Connection, Test, Transaction<br/>
 - [[번역] Mocks Aren't Stubs | Classicist vs Mockist](https://puleugo.tistory.com/199) - 2024.07.29 <br>	Martin Fowler, Test Double<br/>
-- [[번역] 개발자 중심 성능 테스트 선언문](https://puleugo.tistory.com/197) - 2024.06.23 <br>	K6, performance testing<br/>
+- [[번역] 개발자 중심 성능 테스트 선언문](https://puleugo.tistory.com/197) - 2024.06.23 <br>	K6, Performance Testing<br/>
 - [가만히 있어도 주변에서 칭찬해주는 챌린지: 도파민 디톡스 후기](https://puleugo.tistory.com/195) - 2024.06.15 <br>	디지털 디톡스, 자기개발<br/>
-- [[TypeScript] TypeORM 커스텀 함수 구현하기](https://puleugo.tistory.com/194) - 2024.06.06 <br>	contributing, Trouble Shooting, typeorm issue<br/>
+- [[TypeScript] TypeORM 커스텀 함수 구현하기](https://puleugo.tistory.com/194) - 2024.06.06 <br>	Contributing, Trouble Shooting, Typeorm Issue<br/>
 - [그냥 하기 (명량한 염세주의)](https://puleugo.tistory.com/193) - 2024.05.17 <br/>
-- [[Nest.js] HTTP query에 따라 Service가 동적으로 할당되어야 한다.](https://puleugo.tistory.com/192) - 2024.05.07 <br>	nest.js dynamic module<br/>
+- [[Nest.js] HTTP query에 따라 Service가 동적으로 할당되어야 한다.](https://puleugo.tistory.com/192) - 2024.05.07 <br>	Nest.js Dynamic Module<br/>
 - [css를 활용한 다크모드 이미지 자동 대응](https://puleugo.tistory.com/190) - 2024.04.22 <br>	개발블로그 기능 구현<br/>
