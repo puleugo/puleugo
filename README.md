@@ -34,6 +34,7 @@
 <br/>
 
 ## Recent Posts
+- [만개의 테스트를 작성하지 마라.](https://puleugo.tistory.com/202) - 2024.08.10 <br/>
 - [[Node.js] 트랜잭션을 활용한 테스트 격리 환경 구현하기 (1/2) | 솔루션 찾기](https://puleugo.tistory.com/201) - 2024.07.31 <br>	Connection, Test, Transaction<br/>
 - [[번역] Mocks Aren't Stubs | Classicist vs Mockist](https://puleugo.tistory.com/199) - 2024.07.29 <br>	Martin Fowler, Test Double<br/>
 - [[번역] 개발자 중심 성능 테스트 선언문](https://puleugo.tistory.com/197) - 2024.06.23 <br>	K6, Performance Testing<br/>
@@ -41,4 +42,3 @@
 - [[TypeScript] TypeORM 커스텀 함수 구현하기](https://puleugo.tistory.com/194) - 2024.06.06 <br>	Contributing, Trouble Shooting, Typeorm Issue<br/>
 - [그냥 하기 (명량한 염세주의)](https://puleugo.tistory.com/193) - 2024.05.17 <br/>
 - [[Nest.js] HTTP query에 따라 Service가 동적으로 할당되어야 한다.](https://puleugo.tistory.com/192) - 2024.05.07 <br>	Nest.js Dynamic Module<br/>
-- [css를 활용한 다크모드 이미지 자동 대응](https://puleugo.tistory.com/190) - 2024.04.22 <br>	개발블로그 기능 구현<br/>
