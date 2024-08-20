@@ -34,11 +34,11 @@
 <br/>
 
 ## Recent Posts
+- [당신의 블로그, 계왕권을 쓸 수 있다.](https://puleugo.tistory.com/206) - 2024.08.19 <br/>
+- [이상적인 개발자의 해커톤을 준비 방법](https://puleugo.tistory.com/205) - 2024.08.19 <br/>
 - [[번역] 방금 당신이 작성한 코드는 도메인 로직인가? | What is domain logic?](https://puleugo.tistory.com/204) - 2024.08.12 <br/>
 - [티스토리에 마진 넣는법](https://puleugo.tistory.com/203) - 2024.08.11 <br>	Jquery, 개발블로그 기능 구현<br/>
 - [만개의 테스트를 작성하지 마라.](https://puleugo.tistory.com/202) - 2024.08.10 <br>	Testing, Unit Test<br/>
 - [[Node.js] 트랜잭션을 활용한 테스트 격리 환경 구현하기 (1/2) | 솔루션 찾기](https://puleugo.tistory.com/201) - 2024.07.31 <br>	Connection, Test, Transaction<br/>
 - [[번역] Mocks Aren't Stubs | Classicist vs Mockist](https://puleugo.tistory.com/199) - 2024.07.29 <br>	Martin Fowler, Test Double<br/>
 - [[번역] 개발자 중심 성능 테스트 선언문](https://puleugo.tistory.com/197) - 2024.06.23 <br>	K6, Performance Testing<br/>
-- [가만히 있어도 주변에서 칭찬해주는 챌린지: 도파민 디톡스 후기](https://puleugo.tistory.com/195) - 2024.06.15 <br>	디지털 디톡스, 자기개발<br/>
-- [[TypeScript] TypeORM 커스텀 함수 구현하기](https://puleugo.tistory.com/194) - 2024.06.06 <br>	Contributing, Trouble Shooting, Typeorm Issue<br/>
