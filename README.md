@@ -36,7 +36,7 @@
 ## Recent Posts
 - [KAIST GDSC 해커톤 참여, 발표 회고](https://puleugo.tistory.com/207) - 2024.08.26 <br/>
 - [당신의 블로그, 계왕권을 쓸 수 있다.](https://puleugo.tistory.com/206) - 2024.08.19 <br/>
-- [이상적인 개발자의 해커톤을 준비 방법](https://puleugo.tistory.com/205) - 2024.08.19 <br/>
+- [개발자의 이상적인 해커톤 준비 방법](https://puleugo.tistory.com/205) - 2024.08.19 <br/>
 - [[번역] 방금 당신이 작성한 코드는 도메인 로직인가? | What is domain logic?](https://puleugo.tistory.com/204) - 2024.08.12 <br/>
 - [티스토리에 마진 넣는법](https://puleugo.tistory.com/203) - 2024.08.11 <br>	Jquery, 개발블로그 기능 구현<br/>
 - [만개의 테스트를 작성하지 마라.](https://puleugo.tistory.com/202) - 2024.08.10 <br>	Testing, Unit Test<br/>
