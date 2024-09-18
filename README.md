@@ -34,6 +34,7 @@
 <br/>
 
 ## Recent Posts
+- [괴물 메서드 리팩터링과 성능개선하기](https://puleugo.tistory.com/209) - 2024.09.16 <br/>
 - [KAIST GDSC 해커톤 참여, 발표 회고](https://puleugo.tistory.com/207) - 2024.08.26 <br/>
 - [당신의 블로그, 계왕권을 쓸 수 있다.](https://puleugo.tistory.com/206) - 2024.08.19 <br/>
 - [개발자의 이상적인 해커톤 준비 방법](https://puleugo.tistory.com/205) - 2024.08.19 <br/>
