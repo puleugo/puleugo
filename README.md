@@ -34,6 +34,7 @@
 <br/>
 
 ## Recent Posts
+- [[계왕권 프로젝트] 베타버전 개발기](https://puleugo.tistory.com/210) - 2024.11.11 <br>	오블완, 티스토리챌린지<br/>
 - [괴물 메서드 리팩터링과 성능개선하기 | 안전하게 리팩터링하기](https://puleugo.tistory.com/209) - 2024.09.16 <br/>
 - [KAIST GDSC 해커톤 참여, 발표 회고](https://puleugo.tistory.com/207) - 2024.08.26 <br/>
 - [당신의 블로그, 계왕권을 쓸 수 있다.](https://puleugo.tistory.com/206) - 2024.08.19 <br/>
@@ -42,4 +43,3 @@
 - [티스토리에 마진 넣는법](https://puleugo.tistory.com/203) - 2024.08.11 <br>	Jquery, 개발블로그 기능 구현<br/>
 - [만개의 테스트를 작성하지 마라.](https://puleugo.tistory.com/202) - 2024.08.10 <br>	Testing, Unit Test<br/>
 - [[Node.js] 트랜잭션을 활용한 테스트 격리 환경 구현하기 (1/2) | 솔루션 찾기](https://puleugo.tistory.com/201) - 2024.07.31 <br>	Connection, Test, Transaction<br/>
-- [[번역] Mocks Aren't Stubs | Classicist vs Mockist](https://puleugo.tistory.com/199) - 2024.07.29 <br>	Martin Fowler, Test Double<br/>
