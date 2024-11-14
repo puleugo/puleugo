@@ -35,12 +35,12 @@
 <br/>
 
 ## Recent Posts
-- [가장 후회하는 블로그 커스터마이징](https://puleugo.tistory.com/212) - 2024.11.13 <br>	오블완, 티스토리챌린지<br/>
-- [[계왕권 출시] 당신의 블로그 가치를 44배 향상시켜주는 서비스](https://puleugo.tistory.com/211) - 2024.11.12 <br>	오블완, 티스토리챌린지<br/>
-- [[계왕권 프로젝트] 베타버전 개발기](https://puleugo.tistory.com/210) - 2024.11.11 <br>	오블완, 티스토리챌린지<br/>
-- [괴물 메서드 리팩터링과 성능개선하기 | 안전하게 리팩터링하기](https://puleugo.tistory.com/209) - 2024.09.16 <br/>
-- [KAIST GDSC 해커톤 참여, 발표 회고](https://puleugo.tistory.com/207) - 2024.08.26 <br/>
-- [당신의 블로그, 계왕권을 쓸 수 있다.](https://puleugo.tistory.com/206) - 2024.08.19 <br/>
-- [개발자의 이상적인 해커톤 준비 방법](https://puleugo.tistory.com/205) - 2024.08.19 <br/>
-- [[번역] 방금 당신이 작성한 코드는 도메인 로직인가? | What is domain logic?](https://puleugo.tistory.com/204) - 2024.08.12 <br/>
-- [티스토리에 마진 넣는법](https://puleugo.tistory.com/203) - 2024.08.11 <br>	Jquery, 개발블로그 기능 구현<br/>
+- [가장 후회하는 블로그 커스터마이징](https://ko.puleugo.dev/212) - 2024.11.13 <br>	오블완, 티스토리챌린지<br/>
+- [[계왕권 출시] 당신의 블로그 가치를 44배 향상시켜주는 서비스](https://ko.puleugo.dev/211) - 2024.11.12 <br>	오블완, 티스토리챌린지<br/>
+- [[계왕권 프로젝트] 베타버전 개발기](https://ko.puleugo.dev/210) - 2024.11.11 <br>	오블완, 티스토리챌린지<br/>
+- [괴물 메서드 리팩터링과 성능개선하기 | 안전하게 리팩터링하기](https://ko.puleugo.dev/209) - 2024.09.16 <br/>
+- [KAIST GDSC 해커톤 참여, 발표 회고](https://ko.puleugo.dev/207) - 2024.08.26 <br/>
+- [당신의 블로그, 계왕권을 쓸 수 있다.](https://ko.puleugo.dev/206) - 2024.08.19 <br/>
+- [개발자의 이상적인 해커톤 준비 방법](https://ko.puleugo.dev/205) - 2024.08.19 <br/>
+- [[번역] 방금 당신이 작성한 코드는 도메인 로직인가? | What is domain logic?](https://ko.puleugo.dev/204) - 2024.08.12 <br/>
+- [티스토리에 마진 넣는법](https://ko.puleugo.dev/203) - 2024.08.11 <br>	Jquery, 개발블로그 기능 구현<br/>
