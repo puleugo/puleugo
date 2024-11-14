@@ -2,7 +2,7 @@ import feedparser, time, ssl;
 
 # 게시글 읽어오기
 ssl._create_default_https_context = ssl._create_unverified_context;
-url = "https://puleugo.tistory.com/rss";
+url = "https://ko.puleugo.dev/rss";
 raw = feedparser.parse(url)['entries'];
 # print(raw)
 
