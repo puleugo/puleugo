@@ -33,5 +33,5 @@ jobs:
         git diff
         git config --local user.email "puleugo@gmail.com"
         git config --local user.name "puleugo"
-        git commit -m "Fetch Blog Posts"
+        git commit -m "Fetch Blog Posts" --allow-empty
         git push
