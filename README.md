@@ -35,6 +35,7 @@
 <br/>
 
 ## Recent Posts
+- [상호 존중하는 PR 만들기](https://ko.puleugo.dev/214) - 2024.11.24 <br>	오블완, 티스토리챌린지<br/>
 - [이미지 로드 속도 향상하기](https://ko.puleugo.dev/213) - 2024.11.17 <br>	오블완, 티스토리챌린지<br/>
 - [가장 후회하는 블로그 커스터마이징](https://ko.puleugo.dev/212) - 2024.11.13 <br>	오블완, 티스토리챌린지<br/>
 - [[계왕권 출시] 당신의 블로그 가치를 44배 향상시켜주는 서비스](https://ko.puleugo.dev/211) - 2024.11.12 <br>	오블완, 티스토리챌린지<br/>
@@ -43,4 +44,3 @@
 - [KAIST GDSC 해커톤 참여, 발표 회고](https://ko.puleugo.dev/207) - 2024.08.26 <br/>
 - [당신의 블로그, 계왕권을 쓸 수 있다.](https://ko.puleugo.dev/206) - 2024.08.19 <br/>
 - [개발자의 이상적인 해커톤 준비 방법](https://ko.puleugo.dev/205) - 2024.08.19 <br/>
-- [[번역] 방금 당신이 작성한 코드는 도메인 로직인가? | What is domain logic?](https://ko.puleugo.dev/204) - 2024.08.12 <br/>
