@@ -1,4 +1,8 @@
 # Welcome to Puleugo's Github
+
+## Resume
+- [이력서](https://www.rallit.com/resumes/64949@puleugo/%EC%9E%84%EC%B1%84%EC%84%B1)
+
 ## Profile
 
 🇰🇷 Inje University Dept. of Computer Engineering  (2022 ~)
