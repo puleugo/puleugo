@@ -39,7 +39,7 @@
 <br/>
 
 ## Recent Posts
-- [Redis는 항상 옳은가? (Redis vs Another Plan)](https://ko.puleugo.dev/215) - 2024.12.29 <br/>
+- [Redis는 항상 옳은가? (Redis vs Another Plans)](https://ko.puleugo.dev/215) - 2024.12.29 <br/>
 - [상호 존중하는 PR 만들기](https://ko.puleugo.dev/214) - 2024.11.24 <br>	오블완, 티스토리챌린지<br/>
 - [이미지 로드 속도 향상하기](https://ko.puleugo.dev/213) - 2024.11.17 <br>	오블완, 티스토리챌린지<br/>
 - [가장 후회하는 블로그 커스터마이징](https://ko.puleugo.dev/212) - 2024.11.13 <br>	오블완, 티스토리챌린지<br/>
