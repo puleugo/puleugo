@@ -39,6 +39,7 @@
 <br/>
 
 ## Recent Posts
+- [[AdminJS 에러] Cannot find module '@tiptap/pm/state'](https://ko.puleugo.dev/217) - 2025.03.03 <br/>
 - [[NestJS] AdminJS 프로덕션 배포하기](https://ko.puleugo.dev/216) - 2025.02.16 <br/>
 - [Redis는 항상 옳은가? (Redis vs Another Plans)](https://ko.puleugo.dev/215) - 2024.12.29 <br/>
 - [상호 존중하는 PR 만들기](https://ko.puleugo.dev/214) - 2024.11.24 <br>	오블완, 티스토리챌린지<br/>
@@ -47,4 +48,3 @@
 - [[계왕권 출시] 당신의 블로그 가치를 44배 향상시켜주는 서비스](https://ko.puleugo.dev/211) - 2024.11.12 <br>	오블완, 티스토리챌린지<br/>
 - [[계왕권 프로젝트] 베타버전 개발기](https://ko.puleugo.dev/210) - 2024.11.11 <br>	오블완, 티스토리챌린지<br/>
 - [괴물 메서드 리팩터링과 성능개선하기 | 안전하게 리팩터링하기](https://ko.puleugo.dev/209) - 2024.09.16 <br/>
-- [KAIST GDSC 해커톤 참여, 발표 회고](https://ko.puleugo.dev/207) - 2024.08.26 <br/>
