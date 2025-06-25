@@ -48,3 +48,40 @@
 - [[계왕권 프로젝트] 베타버전 개발기](https://ko.puleugo.dev/210) - 2024.11.11 <br>	오블완, 티스토리챌린지<br/>
 - [괴물 메서드 리팩터링과 성능개선하기 | 안전하게 리팩터링하기](https://ko.puleugo.dev/209) - 2024.09.16 <br/>
 - [당신의 블로그, 계왕권을 쓸 수 있다.](https://ko.puleugo.dev/206) - 2024.08.19 <br/>
+- [개발자의 이상적인 해커톤 준비 방법](https://ko.puleugo.dev/205) - 2024.08.19 <br/>
+- [[번역] 방금 당신이 작성한 코드는 도메인 로직인가? | What is domain logic?](https://ko.puleugo.dev/204) - 2024.08.12 <br/>
+- [티스토리에 마진 넣는법](https://ko.puleugo.dev/203) - 2024.08.11 <br>	Jquery, 개발블로그 기능 구현<br/>
+- [만개의 테스트를 작성하지 마라.](https://ko.puleugo.dev/202) - 2024.08.10 <br>	Testing, Unit Test<br/>
+- [[Node.js] 트랜잭션을 활용한 테스트 격리 환경 구현하기 (1/2) | 솔루션 찾기](https://ko.puleugo.dev/201) - 2024.07.31 <br>	Connection, Test, Transaction<br/>
+- [[번역] Mocks Aren't Stubs | Classicist vs Mockist](https://ko.puleugo.dev/199) - 2024.07.29 <br>	Martin Fowler, Test Double<br/>
+- [[번역] 개발자 중심 성능 테스트 선언문](https://ko.puleugo.dev/197) - 2024.06.23 <br>	K6, Performance Testing<br/>
+- [가만히 있어도 주변에서 칭찬해주는 챌린지: 도파민 디톡스 후기](https://ko.puleugo.dev/195) - 2024.06.15 <br>	디지털 디톡스, 자기개발<br/>
+- [[TypeScript] TypeORM 커스텀 함수 구현하기](https://ko.puleugo.dev/194) - 2024.06.06 <br>	Contributing, Trouble Shooting, Typeorm Issue<br/>
+- [그냥 하기 (명량한 염세주의)](https://ko.puleugo.dev/193) - 2024.05.17 <br/>
+- [css를 활용한 다크모드 이미지 자동 대응](https://ko.puleugo.dev/190) - 2024.04.22 <br>	개발블로그 기능 구현<br/>
+- [머신러닝과 딥러닝의 차이](https://ko.puleugo.dev/189) - 2024.04.21 <br/>
+- [[Typescript] builder 패턴 남용 금지](https://ko.puleugo.dev/188) - 2024.04.21 <br/>
+- [[DDD] 도메인 엔티티, Domain Entity](https://ko.puleugo.dev/187) - 2024.04.16 <br/>
+- [[DDD] 값 객체, Value Object](https://ko.puleugo.dev/186) - 2024.04.15 <br/>
+- [[PostgreSQL] 내가 enum을 쓰지 않는 이유](https://ko.puleugo.dev/185) - 2024.04.14 <br/>
+- [PostgreSQL Check란? Check를 사용하지 말아야하는 이유](https://ko.puleugo.dev/184) - 2024.04.11 <br/>
+- [[개발자 셋업 공유] 집에서 누워서 코딩하기](https://ko.puleugo.dev/183) - 2024.04.07 <br/>
+- [티스토리 특정 게시글 광고 제거하는 법](https://ko.puleugo.dev/182) - 2024.03.14 <br/>
+- [5년차 네이버 면접관이 말하는 함께하고 싶은 개발자](https://ko.puleugo.dev/181) - 2024.03.14 <br/>
+- [html에서 React로 마이그레이션 시 겪었던 문제점](https://ko.puleugo.dev/179) - 2024.02.05 <br/>
+- [대학생 둘이서 사업단 찾아가서 후원금 받고 해커톤 개최하는 이야기](https://ko.puleugo.dev/178) - 2024.01.28 <br/>
+- [Assert를 통해 좋은 코드 작성하기](https://ko.puleugo.dev/177) - 2024.01.23 <br/>
+- [#1 Java I/OStream이란](https://ko.puleugo.dev/176) - 2024.01.02 <br/>
+- [#0 시리즈 소개](https://ko.puleugo.dev/175) - 2024.01.01 <br/>
+- [[회고록] 2023년의 경험으로 가는 인생 방향성](https://ko.puleugo.dev/174) - 2023.12.05 <br/>
+- [vim adventue 6 - 3 solution](https://ko.puleugo.dev/170) - 2023.10.28 <br/>
+- [vim adventure 6 - 1 solution](https://ko.puleugo.dev/169) - 2023.10.28 <br/>
+- [[MySQL 복구 2] binlog를 통해 데이터베이스 복구하기](https://ko.puleugo.dev/168) - 2023.09.07 <br/>
+- [[MySQL 복구 1] .ibd 파일을 이용하여 데이터 복구하기](https://ko.puleugo.dev/167) - 2023.09.07 <br>	Data Structure Corrpution, Ibd, Mysql, 데이터 복구<br/>
+- [[NestJS] eslint를 작성해보자.](https://ko.puleugo.dev/166) - 2023.08.23 <br/>
+- [Github Convention 깃헙 컨벤션 정리/모음](https://ko.puleugo.dev/165) - 2023.08.21 <br/>
+- [원클릭 회원가입 승인 구현(telegram bot, AWS s3, Flutter, Nest.js)](https://ko.puleugo.dev/164) - 2023.07.21 <br/>
+- [크롬의 탭은 프로세스일까? 스레드일까?](https://ko.puleugo.dev/162) - 2023.06.06 <br/>
+- [NEXTERS 23기 면접 후기](https://ko.puleugo.dev/160) - 2023.06.03 <br/>
+- [내일은 NEXTERS 면접일이다 (2023년 상반기 피드백)](https://ko.puleugo.dev/159) - 2023.06.02 <br/>
+- [[GO]클래스 없는 객체지향 언어](https://ko.puleugo.dev/158) - 2023.05.24 <br/>
