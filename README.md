@@ -1,13 +1,10 @@
-# Welcome to Puleugo's Github
-
-## Resume
-- [이력서](https://www.rallit.com/resumes/64949@puleugo/%EC%9E%84%EC%B1%84%EC%84%B1)
+# Puleugo
 
 ## Profile
 
-🇰🇷 Inje University Dept. of Computer Engineering  (2022 ~)
-
-🎶 SWMaestro 13th
+- [Resume](https://www.rallit.com/resumes/64949@puleugo/%EC%9E%84%EC%B1%84%EC%84%B1)
+- 🇰🇷 Inje University Dept. of Computer Engineering  (2022 ~)
+- 🎶 SWMaestro 13th
 
 ## Tech Stack
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
@@ -15,7 +12,6 @@
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://nodejs.org/)
 [![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
 
 <br/>
 
@@ -34,7 +30,8 @@
 <br/>
 
 ## Tech Blog
-[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=Tistory&logoColor=white&link=https://puleugo.tistory.com)](https://puleugo.tistory.com/)
+[![한국어 기술블로그](https://img.shields.io/badge/Tech%20Blog(KR)-FF5722?style=for-the-badge&logo=Tistory&logoColor=white&link=https://ko.puleugo.dev)](https://ko.puleugo.dev/)
+[![영어 기술블로그](https://img.shields.io/badge/Tech%20Blog(EN)-000000?style=for-the-badge&logo=Medium&logoColor=Black&link=https://ko.puleugo.dev)](https://ko.puleugo.dev/)
 
 <br/>
 
