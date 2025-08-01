@@ -44,6 +44,7 @@
 - [[계왕권 출시] 당신의 블로그 가치를 44배 향상시켜주는 서비스](https://ko.puleugo.dev/211) - 2024.11.12 <br>	오블완, 티스토리챌린지<br/>
 - [[계왕권 프로젝트] 베타버전 개발기](https://ko.puleugo.dev/210) - 2024.11.11 <br>	오블완, 티스토리챌린지<br/>
 - [괴물 메서드 리팩터링과 성능개선하기 | 안전하게 리팩터링하기](https://ko.puleugo.dev/209) - 2024.09.16 <br/>
+- [KAIST GDSC 해커톤 참여, 발표 회고](https://ko.puleugo.dev/207) - 2024.08.26 <br/>
 - [당신의 블로그, 계왕권을 쓸 수 있다.](https://ko.puleugo.dev/206) - 2024.08.19 <br/>
 - [개발자의 이상적인 해커톤 준비 방법](https://ko.puleugo.dev/205) - 2024.08.19 <br/>
 - [[번역] 방금 당신이 작성한 코드는 도메인 로직인가? | What is domain logic?](https://ko.puleugo.dev/204) - 2024.08.12 <br/>
@@ -81,4 +82,3 @@
 - [크롬의 탭은 프로세스일까? 스레드일까?](https://ko.puleugo.dev/162) - 2023.06.06 <br/>
 - [NEXTERS 23기 면접 후기](https://ko.puleugo.dev/160) - 2023.06.03 <br/>
 - [내일은 NEXTERS 면접일이다 (2023년 상반기 피드백)](https://ko.puleugo.dev/159) - 2023.06.02 <br/>
-- [[GO]클래스 없는 객체지향 언어](https://ko.puleugo.dev/158) - 2023.05.24 <br/>
