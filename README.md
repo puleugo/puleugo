@@ -36,6 +36,7 @@
 <br/>
 
 ## Recent Posts
+- [AI를 나만의 주니어 노예로 굴릴 수 있는 3-File System](https://ko.puleugo.dev/218) - 2025.09.11 <br/>
 - [[AdminJS 에러] Cannot find module '@tiptap/pm/state'](https://ko.puleugo.dev/217) - 2025.03.03 <br/>
 - [[NestJS] AdminJS 프로덕션 배포하기](https://ko.puleugo.dev/216) - 2025.02.16 <br/>
 - [[Github] 상호 존중하는 PR 만들기](https://ko.puleugo.dev/214) - 2024.11.24 <br>	오블완, 티스토리챌린지<br/>
@@ -81,4 +82,3 @@
 - [원클릭 회원가입 승인 구현(telegram bot, AWS s3, Flutter, Nest.js)](https://ko.puleugo.dev/164) - 2023.07.21 <br/>
 - [크롬의 탭은 프로세스일까? 스레드일까?](https://ko.puleugo.dev/162) - 2023.06.06 <br/>
 - [NEXTERS 23기 면접 후기](https://ko.puleugo.dev/160) - 2023.06.03 <br/>
-- [내일은 NEXTERS 면접일이다 (2023년 상반기 피드백)](https://ko.puleugo.dev/159) - 2023.06.02 <br/>
