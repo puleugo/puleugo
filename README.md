@@ -36,7 +36,7 @@
 <br/>
 
 ## Recent Posts
-- [AI를 나만의 주니어 노예로 굴릴 수 있는 3-File System](https://ko.puleugo.dev/218) - 2025.09.11 <br/>
+- [AI를 더 명확하게 사용할 수 있는 3-File System](https://ko.puleugo.dev/218) - 2025.09.11 <br/>
 - [[AdminJS 에러] Cannot find module '@tiptap/pm/state'](https://ko.puleugo.dev/217) - 2025.03.03 <br/>
 - [[NestJS] AdminJS 프로덕션 배포하기](https://ko.puleugo.dev/216) - 2025.02.16 <br/>
 - [[Github] 상호 존중하는 PR 만들기](https://ko.puleugo.dev/214) - 2024.11.24 <br>	오블완, 티스토리챌린지<br/>
